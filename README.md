@@ -25,5 +25,5 @@
 - Embedded AI
 
 ### Contact
-Email: your_email@example.com
-LinkedIn: your_linkedin
+Email: suriyass1437@gmail.com
+LinkedIn: https://www.linkedin.com/in/suriyaprakash-s-s-11b736272/?skipRedirect=true
