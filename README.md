@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @suriya-arduino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Suriya Prakash
 
-<!---
-suriya-arduino/suriya-arduino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Embedded Systems & IoT Developer
+
+### Skills
+- Arduino
+- ESP32
+- ESP8266
+- STM32
+- C/C++
+- IoT
+- Spring Boot
+- MySQL
+
+### Projects
+- Smart Water Monitoring System
+- RFID Attendance System
+- IoT Smart ATM
+- WiFi Robot Car
+- Smart AC Predictor
+
+### Currently Learning
+- Advanced IoT
+- Cloud Integration
+- Embedded AI
+
+### Contact
+Email: your_email@example.com
+LinkedIn: your_linkedin
